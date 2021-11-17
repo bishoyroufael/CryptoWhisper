@@ -1,0 +1,60 @@
+{
+	assets: [
+		// {
+		// 	name: Bitcoin
+		// 	code: XXBTZEUR
+		// },
+		// {
+		// 	name: Ethereum
+		// 	code: XETHZEUR
+		// },
+		// {
+		// 	name: Polkadot
+		// 	code: DOTEUR
+		// },
+		{
+			name: Decentra​land
+			code: MANAEUR
+		},
+		// {
+		// 	name: Litecoin
+		// 	code: XLTCZEUR
+		// },
+		// {
+		// 	name: Monero
+		// 	code: XXMRZEUR
+		// },
+		// {
+		// 	name: Dogecoin
+		// 	code: XDGEUR
+		// },
+		// {
+		// 	name: Ripple
+		// 	code: XXRPZEUR
+		// },
+		// {
+		// 	name: Lumen
+		// 	code: XXLMZEUR
+		// },
+		// {
+		// 	name: Cardano
+		// 	code: ADAEUR
+		// },
+		// {
+		// 	name: Algorand
+		// 	code: ALGOEUR
+		// },
+		// {
+		// 	name: FLOW
+		// 	code: FLOWEUR
+		// },
+		// {
+		// 	name: Kusama
+		// 	code: KSMEUR
+		// },
+		// {
+		// 	name: Solana
+		// 	code: SOLEUR
+		// }
+	]
+}
