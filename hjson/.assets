@@ -1,5 +1,9 @@
 {
 	assets: [
+		{
+			name: Decentra​land
+			code: MANAEUR
+		},
 		// {
 		// 	name: Bitcoin
 		// 	code: XXBTZEUR
@@ -12,10 +16,6 @@
 		// 	name: Polkadot
 		// 	code: DOTEUR
 		// },
-		{
-			name: Decentra​land
-			code: MANAEUR
-		},
 		// {
 		// 	name: Litecoin
 		// 	code: XLTCZEUR

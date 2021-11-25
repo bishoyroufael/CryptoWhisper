@@ -1,0 +1,10 @@
+halo==0.0.31
+krakipy==0.1.8
+matplotlib==3.5.0
+mplfinance==0.12.7a17
+numpy==1.21.4
+pandas==1.3.4
+Pillow==8.4.0
+telegram_send==0.25
+hjson==3.0.2
+easydict==1.9
